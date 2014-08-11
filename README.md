@@ -35,7 +35,11 @@ Compass framework for compiling SASS stylesheets into CSS and sprite sheets:
 
 Note that you may need to first uninstall other SASS versions than (3.2.x).
 
-Installing the project itself is easy. Both build system dependencies and app dependencies are
+Installing the project itself is easy. First clone the project or install via [upstream](#using-bobrsass-as-an-upstream):
+
+    > git clone https://github.com/SC5/gulp-bobrsass-boilerplate.git
+
+Both build system dependencies and app dependencies are
 triggered by
 
     > npm install
